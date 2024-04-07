@@ -1,0 +1,1 @@
+Hello guys this is our project "Medical record using solidity" for the HackVerse 2024.This project theme is mostly based on blockchain  technology for medical records which can offer enhanced security, privacy, and accessibility.
